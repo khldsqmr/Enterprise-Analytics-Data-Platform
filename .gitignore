@@ -1,0 +1,10 @@
+# dbt artifacts
+target/
+dbt_packages/
+
+# secrets
+.env
+profiles.yml
+
+# OS files
+.DS_Store
